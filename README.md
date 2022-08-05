@@ -1,4 +1,4 @@
-# It is a visualization Using "power bi" for sales and production analysis from AdventureWork2017 database
+# It is a visualization Using power bi for sales and production analysis from AdventureWork2017 database
 
 ![Dashboard](https://user-images.githubusercontent.com/61838878/183044603-ca1f84e6-c70c-4b52-85a3-a2866e3a8e64.png)
 
