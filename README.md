@@ -1,4 +1,4 @@
-# AdventureWork2017_sales_and_production_analysis
+# It is a sales and production analysis from AdventureWork2017 database
 
 ### Visualization of Sales and products in adventure works 2017 :
 Modeling the tables: 
