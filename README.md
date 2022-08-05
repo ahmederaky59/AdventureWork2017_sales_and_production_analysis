@@ -1,7 +1,6 @@
-# It is a sales and production analysis from AdventureWork2017 database
+# It is a visualization for sales and production analysis from AdventureWork2017 database
 
-### Visualization of Sales and products in adventure works 2017 :
-Modeling the tables: 
+### 1. Modeling the tables: 
 * Sales.SalesOrderHeader 
 * Sales.SalesOrderDetail 
 * Sales.SalesOrderHeader.Reason 
@@ -12,7 +11,7 @@ Modeling the tables:
 * Production.ProductSubcategory 
 * Production.ProductCategory  
 
-### Create a star schema from the tables, transform the data. 
+### 2. Create a star schema from the tables, transform the data. 
 Created charts: 
 * Total Orders Vs Order Date online chart 
 * Flag online or Offline vs Total Orders using Donut chart 
