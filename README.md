@@ -1,6 +1,6 @@
 # It is a visualization for sales and production analysis from AdventureWork2017 database
 
-![Dashboard!!](E:\Ahmed\التدريب الصيفى\ITI BI development\Day 19 power bi\pics_and_icons\Dashboard.jpg)
+![Dashboard!!](.jpg)
 
 ## 1. Modeling the tables: 
 * Sales.SalesOrderHeader 
